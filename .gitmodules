@@ -1,3 +1,6 @@
 [submodule "amazon-kinesis-data-generator"]
 	path = amazon-kinesis-data-generator
 	url = https://github.com/346/amazon-kinesis-data-generator.git
+[submodule "cotoha_example"]
+	path = cotoha_example
+	url = git@github.com:346/speech_recognition-javascript-sample.git
